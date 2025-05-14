@@ -33,6 +33,11 @@ O notebook gera um gráfico de barras para visualizar o faturamento total de cad
 
 **Exemplo de Gráfico:**
 
+![Media de avaliação das lojas](imagens/grafico1.png)
+
+![Descrição da Imagem 2](imagens/grafico_media_de_frete.png)
+
+![Descrição da Imagem 3](imagens/grafico_faturamento.png)
 
 
 **Insights Obtidos:**

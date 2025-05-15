@@ -67,3 +67,23 @@ Para executar o notebook e reproduzir a análise, siga as instruções abaixo:
         * Calcular o faturamento total de cada loja.
         * Gerar o gráfico de faturamento.
         * Imprimir os resultados no console.
+
+## 5. Tecnologias Utilizadas💻💻💻        
+
+* Python
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+
+* google colab  
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) 
+* Pandas
+
+   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+* Matplotlib        
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)    
+* Seaborn   
+![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=seaborn&logoColor=white)
+
+
+    
+
+
